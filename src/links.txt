@@ -1,0 +1,15 @@
+api_key= c80dcfe8eec14350c273de5aa67a6777
+
+No Playing : https://api.themoviedb.org/3/movie/now_playing?api_key=c80dcfe8eec14350c273de5aa67a6777
+
+https://api.themoviedb.org/3/movie/changes?api_key=c80dcfe8eec14350c273de5aa67a6777
+
+https://api.themoviedb.org/3/genre/movie/list?api_key=c80dcfe8eec14350c273de5aa67a6777
+
+https://api.themoviedb.org/3/movie/now_playing?api_key=c80dcfe8eec14350c273de5aa67a6777
+
+https://api.themoviedb.org/3/movie/now_playing?api_key=c80dcfe8eec14350c273de5aa67a6777
+
+movie/now_playing
+
+https://api.themoviedb.org/3/movie/939243?api_key=c80dcfe8eec14350c273de5aa67a6777
